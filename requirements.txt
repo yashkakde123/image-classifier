@@ -1,0 +1,10 @@
+torch
+transformers
+PIL
+numpy
+requests
+clip-by-openai
+fitz
+pymupdf
+io
+streamlit
