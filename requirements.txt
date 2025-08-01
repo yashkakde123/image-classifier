@@ -1,6 +1,6 @@
 torch
 transformers
-PIL
+Pillow
 numpy
 requests
 clip-by-openai
@@ -8,3 +8,4 @@ fitz
 pymupdf
 io
 streamlit
+
